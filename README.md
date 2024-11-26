@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Glory</h1>
-<h3 align="center">A software developer from Nigeria</h3>
+<h3 align="center">A software engineer and UI designer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jegedeglory&label=Profile%20views&color=0e75b6&style=flat" alt="jegshady" /> </p>
 
@@ -34,7 +34,7 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jegedeglory&show_icons=true&locale=en&layout=compact" alt="jegshady" /></p> -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jegedeglory&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jegedeglory&theme=shades-of-purple&hide_border=false)<br/> <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jegedeglory&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jegedeglory&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/> <br/> <br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jegedeglory&theme=shades-of-purple&hide_border=false)<br/> <br/> <br/> <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jegedeglory&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
