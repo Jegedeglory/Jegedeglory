@@ -34,7 +34,7 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jegedeglory&show_icons=true&locale=en&layout=compact" alt="jegshady" /></p> -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jegedeglory&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/> <br/> <br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jegedeglory&theme=shades-of-purple&hide_border=false)<br/> <br/> <br/> <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jegedeglory&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jegedeglory&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/> <br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jegedeglory&theme=shades-of-purple&hide_border=false)<br/> <br/> <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jegedeglory&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
