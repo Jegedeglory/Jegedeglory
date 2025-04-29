@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jegshady" target="blank"><img src="https://img.shields.io/twitter/follow/jegshady?logo=twitter&style=for-the-badge" alt="jegshady" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, NextJs, NodeJs, ExpressJs, mongoDB.**
+- 🌱 I’m currently learning **ReactJs, NextJs, TypeScript, ReactNative, NodeJs, ExpressJs, mongoDB.**
 
 - 👨‍💻 All of my projects are available at [https://jegsfolio.vercel.app](https://jegsfolio.vercel.app)
 
